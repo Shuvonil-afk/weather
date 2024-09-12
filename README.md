@@ -1,2 +1,2 @@
-weather mointoring project
+weather monitoring project
 
